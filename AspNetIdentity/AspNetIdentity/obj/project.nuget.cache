@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjqeJCqjgbVPohWfbCYS0hTnKxCnfNRp+86p47oT8oj/Diah7SXycccC5uL4/zU0KJ21AZfbFAUdmBNEmxkgIA==",
+  "success": true,
+  "projectFilePath": "E:\\Hoc Tap\\NetCore\\AspNetCoreIdentity\\AspNetIdentity\\AspNetIdentity\\AspNetIdentity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tantn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
